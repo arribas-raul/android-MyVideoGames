@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="padding_small">8dp</dimen>
+    <dimen name="padding_medium">8dp</dimen>
+
+    <dimen name="card_corner_radius">5dp</dimen>
+    <dimen name="card_image_height">120dp</dimen>
+    <dimen name="card_image_detail_height">400dp</dimen>
+    <dimen name="card_text_vertical_space">4dp</dimen>
+
+    <dimen name="padding_detail_content_horizontal">40dp</dimen>
+    <dimen name="padding_detail_content_vertical">24dp</dimen>
+
+    <dimen name="topappbar_height">64dp</dimen>
+
+    <dimen name="list_and_detail_list_padding_top">20dp</dimen>
+    <dimen name="list_and_detail_list_padding_end">16dp</dimen>
+
+    <dimen name="email_list_item_vertical_spacing">8dp</dimen>
+</resources>

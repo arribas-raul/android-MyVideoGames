@@ -1,0 +1,232 @@
+<resources>
+    <string name="app_name">MY VIDEOGAMES</string>
+
+    <string name="game_title_ps2_gw2">
+        GOD OF WAR 2: DIVINE RETRIBUTION
+    </string>
+    <string name="game_title_ps2_dq">
+        DRAGON QUEST: EL PERIPLO DEL REY MALDITO
+    </string>
+    <string name="game_title_ps2_dmc">
+        DEVIL MAY CRY
+    </string>
+    <string name="game_title_ps2_kh">
+        KINGDOM HEARTS
+    </string>
+    <string name="game_title_ps2_tr">
+        TOMB RAIDER ANNIVERSARY EDITION
+    </string>
+    <string name="game_title_ps2_bt">
+        BUDOKAI TENCAICHI 3
+    </string>
+
+    <string name="game_score_ps2_gw2">
+        9.35
+    </string>
+    <string name="game_score_ps2_dq">
+        9.00
+    </string>
+    <string name="game_score_ps2_dmc">
+        8.81
+    </string>
+    <string name="game_score_ps2_kh">
+        8.53
+    </string>
+    <string name="game_score_ps2_tr">
+        8.44
+    </string>
+    <string name="game_score_ps2_bt">
+        8.00
+    </string>
+
+    <string name="game_description_ps2_gw2">
+        Después de ser repudiado por el dios Zeus, Kratos, el nuevo Dios de la Guerra, pierde el favor y reconocimiento del Olimpo. Con una brutalidad que ya es santo y seña de su personalidad y la sed de venganza después de esta decisión, nuestro protagonista inicia un viaje con el que vengarse y desquitarse de todos estos hechos. Un trabajo mitológico de gran envergadura que nos pondrá delante de las criaturas más peligrosas en la secuela de uno de los títulos más esperados de PlayStation 2.
+    </string>
+    <string name="game_description_ps2_dq">
+        Una de las sagas más populares del rol en el mundo del videojuego vuelve con El Periplo del Rey Maldito. Este nuevo Dragon Quest sumerge al jugador en un mundo totalmente fantástico tocado por una gran maldición. En esta ocasión Dholmagus el bufón ha robado un cetro y convertido a Trode y a su hija la princesa. La responsabilidad recae sobre un protagonista que deberá hacer frente a los peligros que acechan para solventar y terminar esta maldición que pesa sobre el mundo.
+    </string>
+    <string name="game_description_ps2_dmc">
+        El mundo del videojuego tiene un nuevo héroe de acción: Dante, un cazador de demonios, hijo de Sparda, que lucha contra el mal para vengar la muerte de su madre. Devil May Cry nos lleva a enormes escenarios de inspiración gótica y barroca, planteándonos luchas salvajes contra demonios de todos los tamaños, así como partes de plataformas y algunos puzles. Uno de los juegos más impresionantes de su época, que inspiró a muchos otros juegos de acción salvaje.
+    </string>
+    <string name="game_description_ps2_kh">
+        Los mundos de Disney y de Square Enix se unen para crear un juego de acción y rol mágico. El héroe Sora tendrá que recorrer diez mundos de Disney para salvarlos, ayudándose de personajes de Disney y de Square Enix, y otros cuatro mundos completamente nuevos creados para la ocasión. Kindgom Hearts combina acción y rol, con combates de acción contra enemigos. Sora estará acompañado toda la aventura por el Pato Donald y por Goofy.
+    </string>
+    <string name="game_description_ps2_tr">
+        Lara Croft regresa a los videojuegos con un remake de su primera aventura para PS2, celebrando los diez años de vida de la heroína creada por Eidos. Realizado por los creadores de Tomb Raider: Legend, este aniversario vuelve a contar la historia del original, pero adaptando su jugabilidad a los tiempos que corren. Tendremos que usar las formidables habilidades de Lara para saltar de plataforma en plataforma y acabar con los enemigos, con nuevos elementos jugables como eventos interactivos.
+    </string>
+    <string name="game_description_ps2_bt">
+        Esta tercera entrega de la saga de Tenkaichi incluye a más de 150 personajes de la serie de anime creada por Akira Toriyama. El juego incluye la posibilidad de ver las batallas repetidas y también de realizar combates tanto de día como nocturnos gozando del cambio temporal de forma muy visual. La versión del juego para Play Station 2 incluye un DVD extra con la posibilidad de desbloquear modos inéditos si el jugador tiene partidas anteriores de la saga.
+    </string>
+
+    <string name="game_title_ps3_mgs">
+        METAL GEAR SOLID
+    </string>
+    <string name="game_title_ps3_tlou">
+        THE LAST OF US
+    </string>
+    <string name="game_title_ps3_gta5">
+        GRAND THEFT AUTO V
+    </string>
+    <string name="game_title_ps3_u2">
+        UNCHARTED 2: EL REINO DE LOS LADRONES
+    </string>
+    <string name="game_title_ps3_rdr">
+        RED DEAD REDEMPTION
+    </string>
+    <string name="game_title_ps3_bac">
+        BATMAN: ARKHAM CITY
+    </string>
+
+    <string name="game_score_ps3_mgs">
+        9.61
+    </string>
+    <string name="game_score_ps3_tlou">
+        9.57
+    </string>
+    <string name="game_score_ps3_gta5">
+        9.56
+    </string>
+    <string name="game_score_ps3_u2">
+        9.49
+    </string>
+    <string name="game_score_ps3_rdr">
+        9.44
+    </string>
+    <string name="game_score_ps3_bac">
+        9.3
+    </string>
+
+    <string name="game_description_ps3_mgs">
+        Metal Gear Solid para PSN es la reedición del clásico de Hideo Kojima para PlayStation One. el juego se recupera para convertirlo en un título de descarga digital para PlayStation Network haciéndolo compatible tanto para PS3 como para PSP. MGS cuenta con más de 10 horas de juego en las que contaremos con diferentes finales según la toma de decisiones. Enfúndate el uniforme de Solid Snake y revive aquellas misiones donde la infiltración y la acción son inherentes al juego.
+    </string>
+    <string name="game_description_ps3_tlou">
+        The Last of Us es el nuevo proyecto de Naughty Dog, los creadores de la saga Uncharted y de Jak &amp; Daxter, en exclusiva para PlayStation 3. Tras un desastre biológico, la mayoría de la población del mundo ha perecido y las calles están desiertas y en ruinas. Nosotros controlaremos a Joel, un hombre acompañado de una joven, Ellie, teniendo que sobrevivir en un mundo lleno de peligros, con otros supervivientes hostiles y una raza de mutantes que nos amenaza a cada paso.
+    </string>
+    <string name="game_description_ps3_gta5">
+        La quinta parte de Grand Theft Auto para PS3 vuelve a la costa oeste americana, ambientándose en la ciudad de Los Santos (Los Ángeles) y sus alrededores, con una historia ambientada en la actualidad, especialmente en las consecuencias de la crisis económica. Está protagonizada por Michael, Franklin y Trevor, tres criminales con diferentes habilidades, pudiendo cambiar de personaje en todo momento y vivir cada una de sus vidas, así como aprovechar sus habilidades en las misiones.
+    </string>
+    <string name="game_description_ps3_u2">
+        Nathan Drake se enfrenta a una nueva aventura, esta vez en el Himalaya, donde tendrá que buscar el reino perdido de Shambala combinando plataformas, puzles y disparos, con viejos conocidos y nuevos amigos de los que nunca podrá fiarse del todo.
+    </string>
+    <string name="game_description_ps3_rdr">
+        Secuela de Red Dead Revolver para PS3, nos lleva a un Salvaje Oeste que está en transición hacia la época moderna. Sigue habiendo vaqueros y forajidos, pero ya hay coches y electricidad. En este contexto, el forajido John Marston tendrá que limpiar su nombre en una aventura que nos llevará por una gran extensión de terreno lleno de pueblos, aldeas, lugares ocultos y desafíos, desde la caza de animales salvajes hasta emboscadas tendidas por bandas de criminales. Cuenta con un largo modo historia y un completo modo multijugador, y está lleno de referencias a grandes películas del género Western.
+    </string>
+    <string name="game_description_ps3_bac">
+        La continuación del aclamado Arkham Asylum para PS3 lleva de nuevo a Batman a combatir contra sus peores enemigos, esta vez en medio de un distrito de Gotham convertido en el asilo Arkham. Esta segunda parte cuenta con más libertad de movimiento, pudiendo movernos libremente por las diferentes zonas del juego. Nos enfrentaremos a enemigos como el Joker, Dos Caras, Bane o el Pingüino usando los movimientos de combate de Batman y su extenso repertorio de gadgets.
+    </string>
+
+    <string name="game_title_ps4_rdr2">
+        RED DEAD REDEMPTION 2
+    </string>
+    <string name="game_title_ps4_gow">
+        GOD OF WAR
+    </string>
+    <string name="game_title_ps4_u4">
+        UNCHARTED 4: EL DESENLACE DEL LADRÓN
+    </string>
+    <string name="game_title_ps4_tlou2">
+        THE LAST OF US PARTE II
+    </string>
+    <string name="game_title_ps4_tw3">
+        THE WITHCER 3: WILD HUNT
+    </string>
+    <string name="game_title_ps4_re2">
+        RESIDENT EVIL 2 REMAKE
+    </string>
+
+    <string name="game_score_ps4_rdr2">
+        9.61
+    </string>
+    <string name="game_score_ps4_gow">
+        9.39
+    </string>
+    <string name="game_score_ps4_u4">
+        9.34
+    </string>
+    <string name="game_score_ps4_tlou2">
+        9.33
+    </string>
+    <string name="game_score_ps4_tw3">
+        9.27
+    </string>
+    <string name="game_score_ps4_re2">
+        8.98
+    </string>
+
+    <string name="game_description_ps4_rdr2">
+        Red Dead Redemption 2 es la secuela del videojuego de éxito de Rockstar Red Dead Redemption (2010), considerado como uno de los mejores títulos de la compañía. Se trata de la tercera entrega de la saga Red Dead, iniciada en 2004 con Red Dead Revolver y nos trasladará de nuevo al Salvaje Oeste para ponernos en el escenario de mundo abierto más grande jamás creado por los padres de Grand Theft Auto y contarnos una historia sobre forajidos, venganza y atracos en un escenario de gran realismo en PlayStation 4 y Xbox One.
+    </string>
+    <string name="game_description_ps4_gow">
+        God of War es la vuelta de Kratos a los videojuegos tras la trilogía original. Esta nueva entrega para PlayStation 4, si bien mantendrá varios de los ingredientes indivisibles de su jugabilidad, apostará por un nuevo comienzo para el personaje y una ambientación nórdica, ofreciéndonos una perspectiva más madura y realista de la mitología de dioses y monstruos milenarios habitual en la serie de títulos. En God of War, Kratos será un guerrero más curtido y pasivo, pues tendrá que desempeñar el rol de padre en un frío y hostil escenario, al que parece haberse retirado para olvidar su pasado.
+    </string>
+    <string name="game_description_ps4_u4">
+        Uncharted 4: El Desenlace del Ladrón es la llegada de Nathan Drake a la nueva generación de videojuegos, en una cuarta parte de la serie desarrollada por Naughty Dog que nos llevará de nuevo a vivir aventuras en los lugares más recónditos del mundo.
+    </string>
+    <string name="game_description_ps4_tlou2">
+        The Last of Us 2 es la secuela de The Last of Us, uno de los juegos más aclamados de la consola PS3, que apareció en 2015 en PS4 en versión remasterizada. Esta continuación ha sido anunciada en el evento PlayStation Experience de diciembre de 2016, generando grandísimas expectativas entre los jugadores.
+    </string>
+    <string name="game_description_ps4_tw3">
+        The Witcher 3 es la tercera entrega de la saga The Witcher desarrollada por CD Projekt para PS4, Xbox One y Pc. Se trata de un videojuego que mezcla elementos de aventura, acción y rol en un mundo abierto épico basado en la fantasía. El jugador controlará una vez más a Geralt de Rivia, el afamado cazador de monstruos, (también conocido como el Lobo Blanco) y se enfrentará a un diversificadísimo bestiario y a unos peligros de unas dimensiones nunca vistas hasta el momento en la serie, mientras recorre los reinos del Norte. Durante su aventura, tendrá que hacer uso de un gran arsenal de armas, armaduras y todo tipo de magias para enfrentarse al que hasta ahora ha sido su mayor desafío, la cacería salvaje. Este videojuego ha sido galardonado como el mejor juego del año 2015 tanto por críticos especializados como por galas de premios como los “Golden Joystick Awards”, “Game Developers Choice Awards” y “The Game Awards”. Además cuenta con 2 DLC o Expansiones: Blood and wine, y Hearts of Stone.
+    </string>
+    <string name="game_description_ps4_re2">
+        Resident Evil 2 Remake es la puesta al día del clásico original del género survival horror para Xbox One, PlayStation 4 y PC, que coincide con el vigésimo aniversario de la saga Resident Evil. Supone un cambio de perspectiva jugable, de estilo de juego y de ambientación, un concepto muy ambicioso desde el plano técnico y artístico pero que mantendrá la esencia del emblemático videojuego que marcó un antes y un después.
+    </string>
+
+    <string name="game_title_ps5_gowr">
+        GOD OF WAR: RAGNAROK
+    </string>
+    <string name="game_title_ps5_re4">
+        RESIDENT EVIL 4: REMAKE
+    </string>
+    <string name="game_title_ps5_hfw">
+        HORIZON FORBIDDEN WEST
+    </string>
+    <string name="game_title_ps5_ds">
+        DEAD SPACE REMAKE
+    </string>
+    <string name="game_title_ps5_r">
+        RETURNAL
+    </string>
+    <string name="game_title_ps5_re8">
+        RESIDENT EVIL 8: VILLAGE
+    </string>
+
+    <string name="game_score_ps5_gowr">
+        9.58
+    </string>
+    <string name="game_score_ps5_re4">
+        9.12
+    </string>
+    <string name="game_score_ps5_hfw">
+        9.06
+    </string>
+    <string name="game_score_ps5_ds">
+        9.06
+    </string>
+    <string name="game_score_ps5_r">
+        8.32
+    </string>
+    <string name="game_score_ps5_re8">
+        8.27
+    </string>
+
+    <string name="game_description_ps5_gowr">
+        God of War: Ragnarok para PlayStation 5 es la secuela de God of War, el reinicio y a la vez secuela de los anteriores God of War para consolas PlayStation. Desarrollado por el prestigioso estudio Sony Santa Monica y con la dirección de Cory Barlog, encontraremos una nueva historia en la que Kratos deberá enfrentarse a diversos enemigos de inspiración nórdica. Explorando los mitos del Ragnarok, el apocalipsis que todo lo devorará según esta tradición del norte, la secuela se espera que llegue en 2021.
+    </string>
+    <string name="game_description_ps5_re4">
+        Sobrevivir es solo el principio. Seis años después de la catástrofe biológica en Raccoon City, el agente Leon S. Kennedy, uno de los supervivientes del desastre, ha sido enviado a rescatar a la hija del presidente, a quien han secuestrado. Siguiendo su rastro, llega a una apartada población europea, donde sus habitantes sufren un mal terrible. Así comienza esta historia de un arriesgado rescate y terror escalofriante donde se cruzan la vida y la muerte, y el miedo y la catarsis.
+    </string>
+    <string name="game_description_ps5_hfw">
+        Horizon 2: Forbbiden West es la segunda parte de Horizon: Zero Dawn, el videojuego de acción en tercera persona y mundo abierto de Guerrilla Games para PlayStation 5 en exclusiva. Auspiciado por Sony, y como una de las nuevas sagas que han demostrado su poder y presencia en la sobremesa, nos narrará una épica historia de ciencia ficción postapocalíptica en la que la humanidad intenta sobrevivir tras la aparición de una serie de máquinas y robots que han sustituido a los seres vivos como especie dominante en la Tierra.
+    </string>
+    <string name="game_description_ps5_ds">
+        Vuelve Dead Space, el clásico de terror, supervivencia y ciencia ficción, reconstruido completamente desde cero para ofrecer una experiencia más profunda e inmersiva. Este remake presenta una fidelidad visual asombrosa, un sonido ambiente lleno de suspense y mejoras en la jugabilidad, sin perder ni un ápice de la escalofriante visión del juego original.Isaac Clarke es un ingeniero cualquiera con la misión de reparar la descomunal nave extractora USG Ishimura, pero descubrirá que algo ha ido terriblemente mal. La tripulación de la nave ha sido asesinada y su querida compañera Nicole está perdida en algún lugar a bordo.Sin nadie que lo acompañe y armado únicamente con sus herramientas y habilidades de ingeniería, Isaac tendrá que darse prisa para encontrar a Nicole mientras va desvelando el terrorífico misterio de lo sucedido a bordo del Ishimura. Atrapado con unas criaturas hostiles, los necromorfos, Isaac se enfrenta a una batalla por la supervivencia no solo contra los horrores de la nave, sino para evitar caer en la locura.
+    </string>
+    <string name="game_description_ps5_r">
+        Se trata de un título diferente a todos los anteriores del estudio, que había sido videojuegos twin stick shooters. En esta ocasión, sus creadores han apostado por ofrecernos una aventura en tercera persona de ciencia ficción con toques de terror, en la que una mujer parece revivir una y otra vez una serie de traumáticas experiencias en un planeta lleno de criaturas surgidas de la más retorcidas de las pesadillas. Hablamos del juego más ambicioso del equipo, un shooter en tercera persona de gran presupuesto.
+    </string>
+    <string name="game_description_ps5_re8">
+        Resident Evil 8: Village es la octava entrega de Resident Evil, la saga de survival horror de Capcom que a lo largo de los años nos ha llevado a luchar contra zombis, mutantes y otros seres sobrenaturales. Resident Evil 8: Village, que llegará a PlayStation 5, Xbox Series X y PC nos devuelve a la primera persona como ya sucedió en la séptima parte de la serie y nos llevará a una aldea maldita aislada en un clima hostil y frío, así como asediada por extrañas criaturas que hace la vida imposible a los habitantes.
+    </string>
+
+</resources>
